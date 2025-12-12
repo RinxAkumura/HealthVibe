@@ -1,0 +1,8 @@
+{
+  "name": "HealthVibe AI",
+  "description": "Una herramienta de triaje médico impulsada por IA que analiza síntomas a través de imágenes y texto para sugerir diagnósticos y cuidados.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
